@@ -69,6 +69,3 @@ app.use('/users', users)
 app.listen(4300, function(){
 	console.log('Server running at port 4300: http://127.0.0.1:4300')
 })
-
-
-//This is test for git
